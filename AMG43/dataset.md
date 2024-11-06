@@ -1,1 +1,1 @@
-This is a dataset for APT Malware Group Attribution。
+This is a dataset for APT Malware Group Attribution.
